@@ -7,12 +7,18 @@
 
 ---
 
-## 🚀 About Me  
-🌱 DevOps Enthusiast | ☁️ Cloud Learner | ⚡ Open Source Explorer  
+## 💫  About Me  
+⚙️ DevOps Enthusiast | ☁️ Cloud Engineer | ⚡ Open Source Explorer  
 
-- 🛠️ Working on **Self-Healing Infrastructure & GitOps**  
+- 👨‍💻 Master's in Computer Applications - Graduate
 - 🎯 Goal: Build expertise in **Kubernetes, AWS, CI/CD & Chaos Engineering**  
-- 💡 Always curious to **automate, scale, and innovate**  
+- 💡 Always curious to **automate, scale, and innovate**
+- 🗂️ Database Management
+- 🚀 Deploying workflows
+- 🤖 Automating processes
+- 🧠 Strong analytical skills
+- 🤝 Team-oriented mindset
+- 🎯 Delivering impactful results
 
 ---
 
