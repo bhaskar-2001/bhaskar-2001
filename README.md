@@ -100,6 +100,23 @@
 
 ---
 
+# 🛠 DevOps Pipeline (visual)
+```mermaid
+flowchart LR
+  A[Developer] -->|push| B[GitHub Repo]
+  B --> C{CI}
+  C -->|Unit Tests| Jenkins[Jenkins]
+  C -->|Build| GH_Actions[GitHub Actions]
+  Jenkins --> D[Docker Image]
+  GH_Actions --> D
+  D --> E[Kubernetes Cluster]
+  E --> F[ArgoCD (GitOps)]
+  E --> G[Prometheus (Metrics)]
+  G --> H[Grafana (Dashboards)]
+  F --> I[Auto-healing Scripts / Alerts]
+```
+---
+
 ## 🤝 Connect with Me  
 
 <p align="center">
