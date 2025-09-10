@@ -68,7 +68,7 @@
   <a href="https://linkedin.com/in/bhaskar-kushwah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:bhaskar.kushwah@example.com">
+  <a href="mailto:bhaskarkushwah32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/bhaskar-2001">
