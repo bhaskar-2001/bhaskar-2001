@@ -93,7 +93,7 @@
 
 ---
 
-🏆 Achievements & Badges
+## 🏆 Achievements & Badges
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-2001&theme=onedark&margin-w=10&margin-h=10" alt="trophy"/> <br/> <img src="https://komarev.com/ghpvc/?username=bhaskar-2001&color=blue&style=flat-square&label=Profile+Views" alt="views"/> 
 </p>
