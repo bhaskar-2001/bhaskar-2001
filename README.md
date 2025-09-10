@@ -1,7 +1,6 @@
 # Hi, I'm Bhaskar 👋
 
 <p align="center">
-  <!-- Top animated banner (change colors/text if you like) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=header&text=Bhaskar%20Kushwah%20%7C%20DevOps%20%26%20Cloud&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
