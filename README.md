@@ -1,7 +1,7 @@
 # Hi, I'm Bhaskar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=header&text=Bhaskar%20Kushwah%20%7C%20DevOps%20%26%20Cloud&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00c6ff,100:0072ff&amp;height=170&amp;section=header&amp;text=Bhaskar%20Kushwah%20%7C%20DevOps%20%26%20Cloud&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=fadeIn" alt="banner" />
 </p>
 
 <p align="center">
