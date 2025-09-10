@@ -100,22 +100,6 @@
 
 ---
 
-# 🛠 DevOps Pipeline (visual)
-```mermaid
-flowchart LR
-  A[Developer] -->|push| B[GitHub Repo]
-  B --> C{CI}
-  C -->|Unit Tests| Jenkins[Jenkins]
-  C -->|Build| GH_Actions[GitHub Actions]
-  Jenkins --> D[Docker Image]
-  GH_Actions --> D
-  D --> E[Kubernetes Cluster]
-  E --> F[ArgoCD (GitOps)]
-  E --> G[Prometheus (Metrics)]
-  G --> H[Grafana (Dashboards)]
-  F --> I[Auto-healing Scripts / Alerts]
-```
----
 
 ## 🤝 Connect with Me  
 
@@ -132,6 +116,11 @@ flowchart LR
 </p>
 
 ---
+
+<!-- Contribution Snake --> 
+<p align="center">
+  <img src="https://github.com/bhaskar-2001/bhaskar-2001/blob/output/github-contribution-grid-snake.svg" /> 
+</p>
 
 <!-- Footer Banner -->
 <p align="center">
