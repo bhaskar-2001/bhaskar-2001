@@ -27,7 +27,7 @@
 
 ---
 
-## 🧑‍💻 Skills & Tools  
+## 🧰 Skills & Tools
 
 <p align="center">
   
@@ -90,6 +90,13 @@
 - 🔄 [**GitOps with ArgoCD**](#) – Declarative Kubernetes deployments using GitHub as the source of truth  
 - 🎭 [**Chaos Engineering on K8s**](#) – Break things safely, ensure resilience  
 - 🌐 [**Portfolio Website**](#) – My personal site with projects & background  
+
+---
+
+🏆 Achievements & Badges
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-2001&theme=onedark&margin-w=10&margin-h=10" alt="trophy"/> <br/> <img src="https://komarev.com/ghpvc/?username=bhaskar-2001&color=blue&style=flat-square&label=Profile+Views" alt="views"/> 
+</p>
 
 ---
 
