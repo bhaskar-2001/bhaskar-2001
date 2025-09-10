@@ -100,7 +100,6 @@
 
 ---
 
-
 ## 🤝 Connect with Me  
 
 <p align="center">
@@ -116,11 +115,6 @@
 </p>
 
 ---
-
-<!-- Contribution Snake --> 
-<p align="center">
-  <img src="https://github.com/bhaskar-2001/bhaskar-2001/blob/output/github-contribution-grid-snake.svg" /> 
-</p>
 
 <!-- Footer Banner -->
 <p align="center">
