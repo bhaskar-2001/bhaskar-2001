@@ -1,8 +1,13 @@
-<!-- Profile README for GitHub: bhaskar-2001 -->
+# Hi, I'm Bhaskar 👋
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Bhaskar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <!-- Top animated banner (change colors/text if you like) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=header&text=Bhaskar%20Kushwah%20%7C%20DevOps%20%26%20Cloud&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner" />
+</p>
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+%26+Kubernetes+Learner;CI/CD+Automation+Enthusiast;Always+Learning+%26+Building" alt="typing" />
 </p>
 
 ---
