@@ -12,7 +12,7 @@
 
 ---
 
-## 💫  whoami  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  whoami !
 ⚙️ DevOps Enthusiast | ☁️ Cloud Engineer | ⚡ Open Source Explorer  
 
 - 👨‍💻 Master's in Computer Applications - Graduate
@@ -72,12 +72,45 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhaskar-2001&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/bhaskar-2001">
+        <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/bhaskar-2001">
+        <img src="https://streak-stats.demolab.com?user=bhaskar-2001&theme=tokyonight&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/bhaskar-2001/self-healing-infra">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar-2001&repo=self-healing-infra&theme=tokyonight&show_owner=true&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      </a>
+    </td>
+    <td align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/bhaskar-2001">
+        <img src="https://github-contributor-stats.vercel.app/api?username=bhaskar-2001&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+---
+
+<!--Contribution Graph-->
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-2001&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-2001&bg_color=1A1B27&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 </p>
 
 ---
@@ -100,19 +133,33 @@
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me 🤝
 
 <p align="center">
-  <a href="https://linkedin.com/in/bhaskar-kushwah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:bhaskarkushwah32@@gmail.com" target="_blank">
+    <img src="./gmail.png" width=50 height=50 alt="bhaskarkushwah32@gmail.com" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:bhaskarkushwah32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://x.com/bhaskar2204" target="_blank">
+    <img src="./twitter.png" width=50 height=50 alt="Bhaskar" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/bhaskar-2001">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://www.instagram.com/bhaskar.__.24" target="_blank">
+    <img src="./instagram.png" width=50 height=50 alt="bhaskar.__.24" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.githubcom/bhaskar-2001" target="_blank">
+    <img src="./github.png" width=50 height=50 alt="bhaskar-2001" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bhaskar-kushwah" target="_blank">
+    <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/output/snake.svg" alt="Snake animation" />
 
 ---
 
