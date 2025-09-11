@@ -157,11 +157,9 @@
   </a>
 </p>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/output/snake.svg" alt="Snake animation" />
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/output/snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Footer Banner -->
 <p align="center">
