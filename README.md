@@ -12,7 +12,7 @@
 
 ---
 
-## 💫  About Me  
+## 💫  whoami  
 ⚙️ DevOps Enthusiast | ☁️ Cloud Engineer | ⚡ Open Source Explorer  
 
 - 👨‍💻 Master's in Computer Applications - Graduate
