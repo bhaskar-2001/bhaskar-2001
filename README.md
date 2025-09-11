@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Cloud+%26+Kubernetes+Learner;CI/CD+Automation+Enthusiast;Always+Learning+%26+Building" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C6FF&center=true&vCenter=true&width=680&lines=>+DevOps+Engineer;>+Cloud+%26+Kubernetes+Learner;>+CI/CD+Automation+Enthusiast;>+Always+Learning+%26+Building" alt="typing" />
 </p>
 
 ---
