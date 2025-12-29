@@ -74,14 +74,6 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
-<a href="https://github.com/bhaskar-2001">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&title_color=c56a90&text_color=ffffff" 
-    width="48%" 
-  />
-</a>
-
 ### 🔥 Streak Stats
 <a href="https://github.com/bhaskar-2001">
   <img 
@@ -95,14 +87,6 @@
 ---
 
 <div align="center">
-
-### 🚀 Latest Project
-<a href="https://github.com/bhaskar-2001/self-healing-infra">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar-2001&repo=self-healing-infra&theme=tokyonight&show_owner=true&title_color=c56a90&text_color=ffffff" 
-    width="48%" 
-  />
-</a>
 
 ### 🏆 Top Contributions
 <a href="https://github.com/bhaskar-2001">
@@ -137,10 +121,22 @@
 
 ---
 
-## 🏆 Achievements & Badges
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-2001&theme=onedark&margin-w=10&margin-h=10" alt="trophy"/> <br/> <img src="https://komarev.com/ghpvc/?username=bhaskar-2001&color=blue&style=flat-square&label=Profile+Views" alt="views"/> 
+## 🌐 GitHub Overview
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=bhaskar-2001&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
+  <img 
+    src="https://img.shields.io/github/followers/bhaskar-2001?label=Followers&style=flat&color=0e75b6" 
+    alt="GitHub Followers" 
+  />
+  <img 
+    src="https://img.shields.io/github/stars/bhaskar-2001?label=Stars&style=flat&color=0e75b6" 
+    alt="GitHub Stars" 
+  />
 </p>
+
 
 ---
 
