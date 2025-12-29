@@ -72,56 +72,17 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-### 📈 GitHub Stats
-<a href="https://github.com/bhaskar-2001">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&title_color=c56a90&text_color=ffffff" 
-    width="48%" 
-  />
-</a>
-
-### 🔥 Streak Stats
-<a href="https://github.com/bhaskar-2001">
-  <img 
-    src="https://streak-stats.demolab.com?user=bhaskar-2001&theme=tokyonight&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
-    width="48%" 
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Latest Project
-<a href="https://github.com/bhaskar-2001/self-healing-infra">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar-2001&repo=self-healing-infra&theme=tokyonight&show_owner=true&title_color=c56a90&text_color=ffffff" 
-    width="48%" 
-  />
-</a>
-
-### 🏆 Top Contributions
-<a href="https://github.com/bhaskar-2001">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=bhaskar-2001&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&title_color=c56a90&text_color=ffffff" 
-    width="48%" 
-  />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/bhaskar-2001?style=social" />
+  <img src="https://img.shields.io/github/stars/bhaskar-2001?style=social" />
+</p>
 
 ---
 
 <!--Contribution Graph-->
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <p align="center">
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-2001&bg_color=1A1B27&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-2001&bg_color=1A1B27&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false">
 </p>
 
 ---
