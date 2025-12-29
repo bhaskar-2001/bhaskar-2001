@@ -72,37 +72,49 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/bhaskar-2001">
-        <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/bhaskar-2001">
-        <img src="https://streak-stats.demolab.com?user=bhaskar-2001&theme=tokyonight&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/bhaskar-2001/self-healing-infra">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar-2001&repo=self-healing-infra&theme=tokyonight&show_owner=true&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/bhaskar-2001">
-        <img src="https://github-contributor-stats.vercel.app/api?username=bhaskar-2001&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Stats
+<a href="https://github.com/bhaskar-2001">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bhaskar-2001&show_icons=true&theme=tokyonight&title_color=c56a90&text_color=ffffff" 
+    width="48%" 
+  />
+</a>
+
+### 🔥 Streak Stats
+<a href="https://github.com/bhaskar-2001">
+  <img 
+    src="https://streak-stats.demolab.com?user=bhaskar-2001&theme=tokyonight&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
+    width="48%" 
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Latest Project
+<a href="https://github.com/bhaskar-2001/self-healing-infra">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar-2001&repo=self-healing-infra&theme=tokyonight&show_owner=true&title_color=c56a90&text_color=ffffff" 
+    width="48%" 
+  />
+</a>
+
+### 🏆 Top Contributions
+<a href="https://github.com/bhaskar-2001">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=bhaskar-2001&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&title_color=c56a90&text_color=ffffff" 
+    width="48%" 
+  />
+</a>
+
+</div>
 
 ---
 
