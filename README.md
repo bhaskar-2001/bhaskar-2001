@@ -2,8 +2,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Bhaskar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/main/Banner.jpg" alt="Bhaskar Banner" />
 </p>
+
 
 <p align="center">
   <!-- Typing animation -->
