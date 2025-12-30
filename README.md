@@ -117,7 +117,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskar-2001&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </p>
----
 
 <!--Contribution Graph-->
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
