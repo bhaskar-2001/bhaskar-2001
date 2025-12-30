@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/main/Banner.jpg" alt="Bhaskar Banner" />
+  <img src="https://raw.githubusercontent.com/bhaskar-2001/bhaskar-2001/main/Banner.png" alt="Bhaskar Banner" />
 </p>
 
 
